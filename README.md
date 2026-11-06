@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Anuj Yadav 👋
 
-<!--
-**anuj24555/anuj24555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student (2026–2030)
+🏫 Babu Banarasi Das University (BBDU)
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning C Programming
+- 💻 Interested in Software Development
+- 🚀 Exploring Programming and Technology
+- 🎯 Working towards becoming a Software Engineer
+
+🛠️ Skills
+
+- C Programming (Learning)
+- Git & GitHub (Learning)
+
+📫 Connect With Me
+
+- GitHub: "Anuj Yadav" (https://github.com/)
+
+---
+
+⭐ Learning, Building, and Growing Every Day.
